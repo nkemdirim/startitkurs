@@ -1,0 +1,15 @@
+-- meta tag ide u head
+-- img tag treba da ima alt atribut
+
+Pozdrav,
+
+Domaci zadatak je OK. Uz par sitnih sugestija.
+
+1) <meta> se stavlja kao child <head> taga,znaci obaveznno unutar <head> taga
+2) <img> tag po pravilu treba da ima alt atribut u slucaju da se slika ne dovuce iz nekog razloga
+3) Malo obratiti paznju na stil pisanja koda u html, uvlacenje child tagova i sl
+
+P.S. Fajl proba pesme.html nisam razmatrao jer ima dosta gresaka,u samoj strukturi koda, kao npr nema obavezne <html>,<body> itd. Takodje struktura sa <table> dizajnom se u moderno vreme html izbegava a i uovom dokumentu nije iskoriscena kako treba.
+
+Pozdrav
+Damjan
