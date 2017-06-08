@@ -1,0 +1,12 @@
+Pozdrav
+
+Lepo odradjen domaci, i za pohvalu je sto ste izabrali drugu vest a zadrzali formu.
+Da bi slika bila responsivna neophodno je postaviti 
+img {
+max-width:100%;
+height:auto;
+}
+i skloniti fiksne dimenzije iz html dokumenta  (inline postavljeno fiksno da slika bude 900px X 450px)
+
+pozdrav
+Damjan
